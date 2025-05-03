@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'core',
     'rest_framework',
     'users',
+    'rest_framework_simplejwt',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
